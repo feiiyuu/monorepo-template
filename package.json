@@ -1,0 +1,13 @@
+{
+  "name": "monorepo-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm run -C packages/web dev",
+    "build": "pnpm run -C packages/web build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
